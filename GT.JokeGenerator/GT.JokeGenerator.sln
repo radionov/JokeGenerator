@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GT.JokeGenerator", "GT.JokeGenerator\GT.JokeGenerator.csproj", "{60D778CA-A5BF-4AA8-A57B-671CFB901A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GT.JokeGenerator.Tests", "GT.JokeGenerator.Tests\GT.JokeGenerator.Tests.csproj", "{C88396A6-FC5B-4174-90DC-1C4C4CB77918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D778CA-A5BF-4AA8-A57B-671CFB901A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D778CA-A5BF-4AA8-A57B-671CFB901A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D778CA-A5BF-4AA8-A57B-671CFB901A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D778CA-A5BF-4AA8-A57B-671CFB901A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88396A6-FC5B-4174-90DC-1C4C4CB77918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88396A6-FC5B-4174-90DC-1C4C4CB77918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88396A6-FC5B-4174-90DC-1C4C4CB77918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88396A6-FC5B-4174-90DC-1C4C4CB77918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1A818CD-3C13-40B8-A3D0-F9B7DCAC0AE2}
+	EndGlobalSection
+EndGlobal
